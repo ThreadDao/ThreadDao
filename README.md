@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThreadDao&show_icons=true&theme=dracula" width = "666" alt="season-animate" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThreadDao&show_icons=true&theme=dracula" width = "100%" alt="season-animate" align="center"/>
   <br/><br/>
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width = "666" alt="season-animate" align="center"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width = "100%" alt="season-animate" align="center"/>
 </div>
 <!--
 **ThreadDao/ThreadDao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
