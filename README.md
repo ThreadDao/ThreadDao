@@ -1,10 +1,11 @@
-### Hi ThreadDao � point_up
+### Hi ThreadDao 
 
 
-<a href="https://github.com/ThreadDao">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThreadDao&show_icons=true&theme=dracula" />
-</a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThreadDao&show_icons=true&theme=dracula" width = "666" alt="season-animate" align="center"/>
+  <br/><br/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width = "666" alt="season-animate" align="center"/>
+</div>
 <!--
 **ThreadDao/ThreadDao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
-<br/>
-
-<div  align="center">    
-<!--   ![](./profile-3d-contrib/profile-season-animate.svg) -->
-   <img src="./profile-3d-contrib/profile-season-animate.svg" width = "300" height = "200" alt="season-animate" align=center />
-</div>
