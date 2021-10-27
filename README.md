@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![](./profile-3d-contrib/profile-season-animate.svg =100x100)
+<div  align="center">    
+<!--   ![](./profile-3d-contrib/profile-season-animate.svg) -->
+   <img src="./profile-3d-contrib/profile-season-animate.svg" width = "300" height = "200" alt="season-animate" align=center />
+</div>
