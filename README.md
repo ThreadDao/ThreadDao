@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/ThreadDao">
-  
-</a>
+<br/>
+<br/>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
