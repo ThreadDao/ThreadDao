@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg =100x100)
